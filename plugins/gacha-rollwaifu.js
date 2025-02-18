@@ -95,4 +95,6 @@ handler.help = ['ver', 'rw', 'rollwaifu'];
 handler.tags = ['gacha'];
 handler.command = ['ver', 'rw', 'rollwaifu'];
 
+handler.rowner = true
+
 export default handler;
