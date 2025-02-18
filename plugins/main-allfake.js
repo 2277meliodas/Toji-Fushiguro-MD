@@ -111,8 +111,8 @@ global.icono = [
 'https://tinyurl.com/2cy9hvf7',
 'https://tinyurl.com/27boz8ae',
 'https://tinyurl.com/27tuyyow',
-'https://tinyurl.com/2ygarhsp',
-'https://tinyurl.com/2b2qdhh6'
+'https://tinyurl.com/2abajd3q',
+'https://tinyurl.com/2ytt3r6t'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
