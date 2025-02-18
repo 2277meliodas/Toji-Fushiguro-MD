@@ -1,0 +1,234 @@
+{
+  "Rudeus Greyrat": {
+    "tipo": "magia",
+    "rareza": "legendario",
+    "img": [
+      "https://files.catbox.moe/ka56zr.jpg"
+    ],
+    "usser": null,
+    "status": true,
+    "ataques": {
+      "Magia de agua": 50,
+      "Magia de fuego": 55,
+      "Explosión mágica": 70
+    },
+    "valor": 85000,
+    "poder": 90
+  },
+  "Eris Boreas Greyrat": {
+    "tipo": "ataque",
+    "rareza": "épico",
+    "img": [
+      "https://files.catbox.moe/upsq9m.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Corte veloz": 40,
+      "Torbellino de espadas": 45
+    },
+    "valor": 50000,
+    "poder": 75
+  },
+  "Roxy Migurdia": {
+    "tipo": "magia",
+    "rareza": "épico",
+    "img": [
+      "https://files.catbox.moe/2wpxvf.jpg"
+    ],
+    "usser": "5212431268546",
+    "status": true,
+    "ataques": {
+      "Magia de agua": 35,
+      "Congelación": 42
+    },
+    "valor": 48000,
+    "poder": 70
+  },
+  "Sylphiette": {
+    "tipo": "soporte",
+    "rareza": "raro",
+    "img": [
+      "https://files.catbox.moe/kn9kls.jpg"
+    ],
+    "usser": null,
+    "status": true,
+    "ataques": {
+      "Sanación básica": 20,
+      "Viento curativo": 25
+    },
+    "valor": 25000,
+    "poder": 50
+  },
+  "Paul Greyrat": {
+    "tipo": "ataque",
+    "rareza": "raro",
+    "img": [
+      "https://files.catbox.moe/f85hoj.jpg"
+    ],
+    "usser": null,
+    "status": true,
+    "ataques": {
+      "Estocada precisa": 30,
+      "Doble corte": 35
+    },
+    "valor": 28000,
+    "poder": 55
+  },
+  "Zenith Greyrat": {
+    "tipo": "soporte",
+    "rareza": "raro",
+    "img": [
+      "https://files.catbox.moe/snapx8.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Sanación avanzada": 30,
+      "Barrera mágica": 28
+    },
+    "valor": 26000,
+    "poder": 50
+  },
+  "Ghislaine Dedoldia": {
+    "tipo": "ataque",
+    "rareza": "épico",
+    "img": [
+      "https://files.catbox.moe/rvbzkf.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Corte bestial": 45,
+      "Golpe del lobo": 50
+    },
+    "valor": 52000,
+    "poder": 78
+  },
+  "Orsted": {
+    "tipo": "magia",
+    "rareza": "mítico",
+    "img": [
+      "https://files.catbox.moe/e3zoct.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Explosión dracónica": 80,
+      "Rayo divino": 85
+    },
+    "valor": 100000,
+    "poder": 100
+  },
+  "Kakashi Hatake": {
+    "tipo": "misterioso",
+    "rareza": "mítico",
+    "img": [
+      "https://files.catbox.moe/ywtd9z.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Raikiri": 150,
+      "Taijutsu": 100
+    },
+    "valor": 98000,
+    "poder": 400
+  },
+  "Ruijerd Superdia": {
+    "tipo": "defensa",
+    "rareza": "épico",
+    "img": [
+      "https://files.catbox.moe/gcb1y0.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Escudo impenetrable": 40,
+      "Contraataque brutal": 50
+    },
+    "valor": 49000,
+    "poder": 76
+  },
+  "Nanahoshi Shizuka": {
+    "tipo": "misterioso",
+    "rareza": "raro",
+    "img": [
+      "https://files.catbox.moe/oqob50.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Invocación dimensional": 35,
+      "Portal vacío": 38
+    },
+    "valor": 30000,
+    "poder": 60
+  },
+  "Izuku Miyudora": {
+    "tipo": "defensa",
+    "rareza": "legendario",
+    "img": [
+      "https://files.catbox.moe/zbfn2c.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "latigo negro": 70,
+      "Cortina de humo": 75
+    },
+    "valor": 87000,
+    "poder": 92
+  },
+  "Tomioka Giyuu": {
+    "tipo": "ataque",
+    "rareza": "legendario",
+    "img": [
+      "https://files.catbox.moe/kjqq3t.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Respiración del agua: primera postura": 100,
+      "Respiración del agua: decima postura": 200
+    },
+    "valor": 86000,
+    "poder": 200
+  },
+  "Naruto Uzumaki": {
+    "tipo": "ataque",
+    "rareza": "legendario",
+    "img": [
+      "https://files.catbox.moe/hxo1hg.jpg"
+    ],
+    "usser": null,
+    "status": false,
+    "ataques": {
+      "Estilo de agua": 50,
+      "Jutsu clones de sombra": 2000,
+      "Rasengan": 100
+    },
+    "valor": 85000,
+    "poder":590
+
+    },
+    "Rias Greamory": {
+       "tipo": "ataque",
+       "rareza": "legendaria",
+       "img": [
+         "https://files.catbox.moe/rabh7z.jpg"
+       ],
+       "usser": null,
+       "status": false,
+       "ataques": {
+         "Poder de destrucción": 300,
+         "Detencion del tiempo":  400,
+         "Manipulación de las sombras": 100,
+         "Darkness Queen Mode": 10000,
+         "Tercer ojo": 500
+       },
+       "valor": 85000,
+       "poder": 10800
+    }
+}
+      
