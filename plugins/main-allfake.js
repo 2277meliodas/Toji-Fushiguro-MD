@@ -28,14 +28,14 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/573004828388'
+global.creador = 'Wa.me/584120515006'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/584120515006'
-global.namechannel = '↫ 💠Chat principal🌼'
-global.namechannel2 = 'grᥙ⍴᥆ ძᥱ s᥆⍴᥆r𝗍ᥱ mі𝗍sᥙrі-kᥲᥒr᥆ȷі-ᑲ᥆𝗍'
-global.namegrupo = '_°🤖-𝐵𝑜𝑡 𝑆𝑜𝑢𝑡 𝑀𝑖𝑡𝑠𝑢𝑟𝑖 𝐾𝑎𝑛𝑟𝑜𝑗𝑖-🍡_°'
-global.namecomu = 'mі𝗍sᥙrі-kᥲᥒr᥆ȷі-ᑲ᥆𝗍-᥆𝖿іᥴіᥲᥣ'
-global.listo = '🍡 *Aquí tienes ฅ^•ﻌ•^ฅ*'
+global.namechannel = '↫ Toji-Fushiguro-Bot-'
+global.namechannel2 = 'Toji-Fushiguro-Bot-grupo de soporte'
+global.namegrupo = 'Toji-Fushiguro-Bot-'
+global.namecomu = ''
+global.listo = '🥢 *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
@@ -59,17 +59,17 @@ global.done = '✅'
 global.error = '✖️'
 
 //Emojis determinado de Yuki Bot
-global.emoji = '🍧'
-global.emoji2 = '🍡'
-global.emoji3 = '🍨'
-global.emoji4 = '🍡'
+global.emoji = '🍷'
+global.emoji2 = '🥢'
+global.emoji3 = '🍙'
+global.emoji4 = '🥢'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🩷 Espera un momento, soy lenta...';
-global.waitt = '💐 Espera un momento, soy lenta...';
-global.waittt = '🍡 Espera un momento, soy lenta...';
-global.waitttt = '🍨 Espera un momento, soy lenta...';
+global.wait = '🍷 Espera un momento, soy lenta...';
+global.waitt = '🍙 Espera un momento, soy lenta...';
+global.waittt = '🥢 Espera un momento, soy lenta...';
+global.waitttt = '🍷 Espera un momento, soy lenta...';
 
 //Enlaces
 var canal = 'https://chat.whatsapp.com/EzYop3aYndpFhOerZOUy1A'  
@@ -107,12 +107,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://tinyurl.com/27j6bf4u',
-'https://tinyurl.com/2d5jal9f',
-'https://tinyurl.com/25lfop6s',
-'https://tinyurl.com/2a33xnvm',
-'https://tinyurl.com/23kqx9ke',
-'https://tinyurl.com/2a33xnvm'
+'https://tinyurl.com/29lo9n6x',
+'https://tinyurl.com/2dzr47xn',
+'https://tinyurl.com/23zha9el',
+'https://tinyurl.com/2chyxbns',
+'https://tinyurl.com/2ygarhsp',
+'https://tinyurl.com/2b2qdhh6'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
