@@ -39,9 +39,9 @@ global.listo = '🥢 *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
-global.idchannel = '120363375424763024@newsletter'
-global.canalIdM = ["120363394238906000@newsletter", "120363375424763024@newsletter"]
-global.canalNombreM = ["↫ °_💐𝑀𝑖𝑡𝑠𝑢𝑟𝑖 𝐾𝑎𝑛𝑟𝑜𝑗𝑖_𝑴𝑫💠_°", "🍨𝑴𝒊𝒕𝒔𝒖𝒓𝒊 𝑲𝒂𝒏𝒓𝒐𝒋𝒊 𝑻𝒆𝒙𝒕🩷"]
+global.idchannel = '120363385715417313@newsletter'
+global.canalIdM = ["120363386135740300@newsletter", "120363386135740300@newsletter"]
+global.canalNombreM = ["↫ Toji-Fushiguro-MD ", "Toji-Fushiguro-Test"]
 global.channelRD = await getRandomChannel()
 
 //fechas
