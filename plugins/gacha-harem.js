@@ -75,4 +75,6 @@ handler.help = ['harem [@usuario] [pagina]'];
 handler.tags = ['anime'];
 handler.command = ['harem', 'claims', 'waifus'];
 
+handler.rowner = true
+
 export default handler;
