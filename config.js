@@ -70,15 +70,15 @@ global.imagen1 = fs.readFileSync('./src/imagen.jpg');
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp4 = 'https://chat.whatsapp.com/D8U3fQB1oLj3TzqwhRmzAD'
-global.gp1 = 'https://chat.whatsapp.com/DouO0ZzbGyC3yqbeqpbVIp' 
-global.gp2 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
-global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
-global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.channel2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
+global.gp4 = 'https://chat.whatsapp.com/KL5RypthnYUHGlHe42W6Si'
+global.gp1 = 'https://chat.whatsapp.com/HutH7RL6xim0srfCFcbn2o' 
+global.gp2 = 'https://chat.whatsapp.com/EmCszY0pDT03RLYsPS6brJ'
+global.comunidad1 = 'https://chat.whatsapp.com/LI7QBAXtaiOEEFrNEForBz'
+global.channel = 'https://whatsapp.com/channel/0029Vb2H5hrBVJl18LMil411'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb1cRd89xVJo1FuPL22r'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
 global.correo = 'sanchezazahel1207@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.cn = 'https://chat.whatsapp.com/KL5RypthnYUHGlHe42W6Si';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
