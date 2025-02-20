@@ -32,9 +32,9 @@ global.creador = 'Wa.me/584120515006'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/584120515006'
 global.namechannel = '↫ Toji-Fushiguro-Bot-'
-global.namechannel2 = 'Toji-Fushiguro-Bot-grupo de soporte'
+global.namechannel2 = '𝗍᥆ȷі-𝖿ᥙsһіgᥙr᥆-grᥙ⍴᥆ ძᥱ s᥆⍴᥆r𝗍ᥱ'
 global.namegrupo = 'Toji-Fushiguro-Bot-'
-global.namecomu = ''
+global.namecomu = '_°🤖-𝐵𝑜𝑡 𝑆𝑜𝑢𝑡 𝑀𝑖𝑡𝑠𝑢𝑟𝑖 𝐾𝑎𝑛𝑟𝑜𝑗𝑖-🍡_°'
 global.listo = '🥢 *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
@@ -66,14 +66,14 @@ global.emoji4 = '🥢'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🍷 Espera un momento, soy lenta...';
-global.waitt = '🍙 Espera un momento, soy lenta...';
-global.waittt = '🥢 Espera un momento, soy lenta...';
-global.waitttt = '🍷 Espera un momento, soy lenta...';
+global.wait = '🍷 Espera un momento, soy lento...';
+global.waitt = '🍙 Espera un momento, soy lento...';
+global.waittt = '🥢 Espera un momento, soy lento...';
+global.waitttt = '🍷 Espera un momento, soy lento...';
 
 //Enlaces
-var canal = 'https://chat.whatsapp.com/EzYop3aYndpFhOerZOUy1A'  
-let canal2 = 'https://chat.whatsapp.com/CuJelk08Sw2675GZmRpghy'
+var canal = 'https://chat.whatsapp.com/D8U3fQB1oLj3TzqwhRmzAD'  
+let canal2 = 'https://chat.whatsapp.com/FWOLSeaNSnBDbfN0JeoKOY'
 var git = 'https://github.com/2277meliodas'
 var github = 'https://github.com/2277meliodas' 
 let correo = 'sanchezazahel1207@gmail.com'
