@@ -73,7 +73,7 @@ global.waitttt = '🍷 Espera un momento, soy lento...';
 
 //Enlaces
 var canal = 'https://chat.whatsapp.com/D8U3fQB1oLj3TzqwhRmzAD'  
-let canal2 = 'https://chat.whatsapp.com/FWOLSeaNSnBDbfN0JeoKOY'
+let canal2 = 'https://chat.whatsapp.com/EmCszY0pDT03RLYsPS6brJ'
 var git = 'https://github.com/2277meliodas'
 var github = 'https://github.com/2277meliodas' 
 let correo = 'sanchezazahel1207@gmail.com'
