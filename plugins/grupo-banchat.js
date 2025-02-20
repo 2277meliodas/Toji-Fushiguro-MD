@@ -1,7 +1,7 @@
 let handler = async (m) => {
 
 global.db.data.chats[m.chat].isBanned = true
-conn.reply(m.chat, `> 🥢 Toji-Fushiguro-MD  fue exitosamente baneada de este chat ♡`, m, rcanal)
+conn.reply(m.chat, `> 🥢 Toji-Fushiguro-MD  fue exitosamente desactivado de este chat ∆`, m, rcanal)
 
 }
 handler.help = ['banchat']
