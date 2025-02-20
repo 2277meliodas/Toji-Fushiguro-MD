@@ -31,8 +31,8 @@ console.log(`Error : ${e}`)
 global.creador = 'Wa.me/584120515006'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/584120515006'
-global.namechannel = '↫ Toji-Fushiguro-Bot-'
-global.namechannel2 = '𝗍᥆ȷі-𝖿ᥙsһіgᥙr᥆-grᥙ⍴᥆ ძᥱ s᥆⍴᥆r𝗍ᥱ'
+global.namechannel = '↫ Toji-Fushiguro-Bot-MD'
+global.namechannel2 = 'Toji-Fushiguro-Test'
 global.namegrupo = 'Toji-Fushiguro-Bot-'
 global.namecomu = '_°🤖-𝐵𝑜𝑡 𝑆𝑜𝑢𝑡 𝑀𝑖𝑡𝑠𝑢𝑟𝑖 𝐾𝑎𝑛𝑟𝑜𝑗𝑖-🍡_°'
 global.listo = '🥢 *Aquí tienes ฅ^•ﻌ•^ฅ*'
@@ -72,8 +72,8 @@ global.waittt = '🥢 Espera un momento, soy lento...';
 global.waitttt = '🍷 Espera un momento, soy lento...';
 
 //Enlaces
-var canal = 'https://chat.whatsapp.com/D8U3fQB1oLj3TzqwhRmzAD'  
-let canal2 = 'https://chat.whatsapp.com/EmCszY0pDT03RLYsPS6brJ'
+var canal = 'https://whatsapp.com/channel/0029Vb2H5hrBVJl18LMil411'  
+let canal2 = 'https://whatsapp.com/channel/0029Vb1cRd89xVJo1FuPL22r'
 var git = 'https://github.com/2277meliodas'
 var github = 'https://github.com/2277meliodas' 
 let correo = 'sanchezazahel1207@gmail.com'
