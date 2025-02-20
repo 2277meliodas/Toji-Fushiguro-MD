@@ -16,7 +16,7 @@ let handler = async (m, { conn, args }) => {
 ᥲ𝗊ᥙí 𝗍іᥱᥒᥱs ᥣᥲ ᥣіs𝗍ᥲ ძᥱ ᥴ᥆mᥲᥒძ᥆s
 ╭┈ ↷
 │☁️ Cliente » @${userId.split('@')[0]}
-│💸 ${moneda} » ${coins}
+│🪙 ${moneda} » ${coins}
 │✨ Experiencia » ${exp.toLocaleString()}
 │🌟 Nivel » ${nivel}
 │⚜️ Rango » ${role}
@@ -26,8 +26,8 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Info-Bot\` •˚⊹
 
-🍬 Comandos para ver estado e información de la Bot.
-ᰔᩚ *#help • #menu*
+🥢 Comandos para ver estado e información de la Bot.
+∆ *#help • #menu*
 > ✦ Ver la lista de comandos de la Bot.
 ᰔᩚ *#uptime • #runtime*
 > ✦ Ver tiempo activo o en linea de la Bot.
@@ -70,7 +70,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Buscadores\` •˚⊹
 
-🍬 Comandos para realizar búsquedas en distintas plataformas.
+🥢 Comandos para realizar búsquedas en distintas plataformas.
 ᰔᩚ *#tiktoksearch • #tiktoks*
 > ✦ Buscador de videos de tiktok.
 ᰔᩚ *#tweetposts*
@@ -106,7 +106,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Descargas\` •˚⊹
 
-🍬 Comandos de descargas para varios archivos.
+🥢 Comandos de descargas para varios archivos.
 ᰔᩚ *#tiktok • #tt*
 > ✦ Descarga videos de TikTok.
 ᰔᩚ *#mediafire • #mf*
@@ -150,7 +150,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Economia-rpg\` •˚⊹
 
-🍬 Comandos de economía y fantasía para ganar dinero y otros recursos.
+🥢 Comandos de economía y fantasía para ganar dinero y otros recursos.
 ᰔᩚ *#w • #work • #trabajar*
 > ✦ Trabaja para ganar ${moneda}.
 ᰔᩚ *#slut • #protituirse*
@@ -210,27 +210,21 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Gacha-rpg\` •˚⊹
 
-🍬 Comandos de gacha para reclamar y colecciónar personajes.
-ᰔᩚ *#rollwaifu • #rw • #roll*
-> ✦ Waifu o husbando aleatorio.
-ᰔᩚ  *#claim • #c • #reclamar*
-> ✦ Reclamar un personaje.
-ᰔᩚ *#harem • #waifus • #claims*
-> ✦ Ver tus personajes reclamados.
-ᰔᩚ *#charimage • #waifuimage • #wimage* 
-> ✦ Ver una imagen aleatoria de un personaje.
-ᰔᩚ *#charinfo • #winfo • #waifuinfo*
-> ✦ Ver información de un personaje.
-ᰔᩚ *#givechar • #givewaifu • #regalar*
-> ✦ Regalar un personaje a otro usuario.
-ᰔᩚ *#vote • #votar*
-> ✦ Votar por un personaje para subir su valor.
-ᰔᩚ *#waifusboard • #waifustop • #topwaifus*
-> ✦ Ver el top de personajes con mayor valor.
+🥢 Comandos de gacha para reclamar y colecciónar personajes.
+ᰔᩚ *#shop • #shop2 • #shop3*
+> ✦ tienda de waifus .
+ᰔᩚ  *#comprar • #c • #c -o*
+> ✦ comprar waifus .
+ᰔᩚ *#inv*
+> ✦ Ver tus personajes comprados.
+ᰔᩚ ** 
+> ✦ .
+ᰔᩚ *# • # • #*
+> ✦ 
 
 »  ⊹˚• \`Stickers\` •˚⊹
 
-🍬 Comandos para creaciones de stickers etc.
+🥢 Comandos para creaciones de stickers etc.
 ᰔᩚ *#sticker • #s*
 > ✦ Crea stickers de (imagen/video)
 ᰔᩚ *#pfp • #getpic*
@@ -248,7 +242,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Herramientas\` •˚⊹
 
-🍬 Comandos de herramientas con muchas funciones.
+🥢 Comandos de herramientas con muchas funciones.
 ᰔᩚ *#calcular • #calcular • #cal*
 > ✦ Calcular todo tipo de ecuaciones.
 ᰔᩚ *#tiempo • #clima*
@@ -280,7 +274,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Perfil\` •˚⊹
 
-🍬 Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
+🥢 Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
 ᰔᩚ *#reg • #verificar • #register*
 > ✦ Registra tu nombre y edad en el bot.
 ᰔᩚ *#unreg*
@@ -314,7 +308,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Grupos\` •˚⊹
 
-🍬 Comandos de grupos para una mejor gestión de ellos.
+🥢 Comandos de grupos para una mejor gestión de ellos.
 ᰔᩚ *#config • #on*
 > ✦ Ver opciones de configuración de grupos.
 ᰔᩚ *#hidetag*
@@ -382,7 +376,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`Anime\` •˚⊹
 
-🍬 Comandos de reacciones de anime.
+🥢 Comandos de reacciones de anime.
 ᰔᩚ *#angry • #enojado* + <mencion>
 > ✦ Estar enojado
 ᰔᩚ *#bite* + <mencion>
@@ -454,7 +448,7 @@ let handler = async (m, { conn, args }) => {
 
 »  ⊹˚• \`NSFW\` •˚⊹
 
-🍬 Comandos NSFW (Contenido para adultos)
+🥢 Comandos NSFW (Contenido para adultos)
 ᰔᩚ *#anal* + <mencion>
 > ✦ Hacer un anal
 ᰔᩚ *#waifu*
