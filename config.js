@@ -57,12 +57,12 @@ global.author = 'Made By ⁱᵃᵐ|Lm Avaricia'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|Lm Avaricia'
 global.textbot = 'Toji Fushiguro • Powered By ⁱᵃᵐ|Lm Avaricia'
 global.numcreador = '584120515006'
-global.moneda = 'Yenes'
+global.moneda = 'Coins'
 global.welcom1 = 'Edita Con #setwelcome'
 global.welcom2 = 'Edita Con #setbye'
 global.banner = 'https://tinyurl.com/2ysgapcx'
 global.catalogo = 'https://tinyurl.com/25ru293g'
-global.test = 'https://tinyurl.com/25ru293g'
+global.test = 'https://tinyurl.com/2cvwj5pw'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -104,7 +104,7 @@ global.rpg = {
     string = string.toLowerCase();
     const emot = {
       level: '🌟 Nivel',
-      coin: '💸 Coin',
+      coin: '🪙 Coin',
       exp: '✨ Experiencia',
       bank: '🏦 Banco',
       diamond: '💎 Diamante',
@@ -131,7 +131,7 @@ global.rpgg = {
     string = string.toLowerCase();
     const emott = {
       level: '🌟',
-      coin: '💸',
+      coin: '🪙',
       exp: '✨',
       bank: '🏦',
       diamond: '💎',
