@@ -6,7 +6,7 @@ conn.reply(m.chat, `> 🥢 Toji-Fushiguro-MD  fue exitosamente desactivado de es
 }
 handler.help = ['banchat']
 handler.tags = ['grupo']
-handler.command = ['banchat']
+handler.command = ['off']
 
 handler.botAdmin = true
 handler.admin = true 
