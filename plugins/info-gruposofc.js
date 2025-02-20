@@ -17,7 +17,7 @@ let grupos = `*Hola!, te invito a unirte a los grupos oficiales del Bot para con
 - ${namechannel}
 *❀* ${channel}
 
-- grᥙ⍴᥆ ძᥱ s᥆⍴᥆r𝗍ᥱ mі𝗍sᥙrі-kᥲᥒr᥆ȷі-ᑲ᥆𝗍
+- Toji-Fushiguro-bot-Grupo de soporte 
 *❀* ${channel2}
 
 > ${dev}`
