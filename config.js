@@ -61,8 +61,8 @@ global.moneda = 'Coins'
 global.welcom1 = 'Edita Con #setwelcome'
 global.welcom2 = 'Edita Con #setbye'
 global.banner = 'https://tinyurl.com/2ysgapcx'
-global.catalogo = 'https://tinyurl.com/25ru293g'
-global.test = 'https://tinyurl.com/2cvwj5pw'
+global.catalogo = 'https://tinyurl.com/2cllr6mf'
+global.test = 'https://tinyurl.com/26bdqq82'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
