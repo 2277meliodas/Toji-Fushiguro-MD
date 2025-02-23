@@ -1,4 +1,5 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
+let img = './src/catalogo.jpg'
 let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 👑 *Dueño* ${creador}
 🍬 *Bot:* ${botname}
@@ -31,23 +32,9 @@ let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 🔖 *Rol:* Moderador 
 👾 *GitHub:* https://github.com/Legna-chan
   `
-await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
-contextInfo: {
-'forwardingScore': 200,
-'isForwarded': false,
-externalAdReply: {
-showAdAttribution: true,
-renderLargerThumbnail: false,
-title: `🥷 Developers 👑`,
-body: `✨ Staff Oficial`,
-mediaType: 1,
-sourceUrl: redes,
-thumbnailUrl: icono
-}}
-}, { mentions: m.sender })
-m.react(emoji)
-
+await conn.sendFile(m.chat, img, 'mm.jpg', staff.trim(), fkontak)
 }
+
 handler.help = ['staff']
 handler.command = ['colaboradores', 'staff']
 handler.register = true
